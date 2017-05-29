@@ -3,6 +3,10 @@
 [![Total Downloads](https://poser.pugx.org/api-clients/branding/downloads.png)](https://packagist.org/packages/api-clients/branding/stats)
 [![License](https://poser.pugx.org/api-clients/branding/license.png)](https://packagist.org/packages/api-clients/branding)
 
+# Logo
+
+![PHP API Clients logo](https://github.com/php-api-clients/branding/raw/master/logo.png)
+
 License
 -------
 
